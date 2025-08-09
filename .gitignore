@@ -8,3 +8,6 @@ stable_diff
 build/
 rlschool.egg-info/
 *.whl
+
+metagym.egg-info/
+__pycache__/
